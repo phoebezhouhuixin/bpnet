@@ -1,0 +1,8 @@
+venv/
+model/model.pt
+model/onnx.onnx
+_pycache_/
+data/test.p
+data/val4.p
+output.p
+output_val.p
